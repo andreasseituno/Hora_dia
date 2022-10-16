@@ -1,0 +1,32 @@
+body {
+  font: normal 15pt Arial;
+  text-align: center;
+  margin: auto;
+}
+
+p {
+  font-size: 11pt;
+}
+
+header {
+  color: white;
+}
+
+section {
+  background-color: white;
+  padding: 15px;
+  width: 500px;
+  border-radius: 10px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.349);
+}
+
+div {
+  padding: 15px 5px;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+  border-radius: 100%;
+}
